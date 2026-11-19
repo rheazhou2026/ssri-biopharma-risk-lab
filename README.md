@@ -2,7 +2,7 @@
 
 An interactive, dependency-free research visualization built from **Rhea Zhou, “Quantifying Biopharma Alliance Fragility Using a Strategic Shock Risk Index (SSRI),” IEEE International Conference on Data Mining Workshops (ICDMW), 2025**. [DOI: 10.1109/ICDMW69685.2025.00398](https://doi.org/10.1109/ICDMW69685.2025.00398).
 
-**[Launch the live SSRI Lab](https://rheazhou2026.github.io/ssri-biopharma-risk-lab/)** (available after enabling GitHub Pages).
+**[Launch the live SSRI Lab](https://rheazhou2026.github.io/ssri-biopharma-risk-lab/)**
 
 ## What you can explore
 
